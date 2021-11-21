@@ -1,0 +1,5 @@
+licence_number: PB42 0AZ  # driving licence number
+test_ref_number: 1234574  # test reference number
+current_test_date: 2022-02-12  # currrent date of test %Y-%m-%d
+email_address: cockandballs@hotmail.com  # email to message at
+email_password: juicyOnes123  # email password to allow you to email yourself
